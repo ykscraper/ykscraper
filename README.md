@@ -11,3 +11,6 @@ Data Export:Pandas,Excel,(XLSX),CSVand JSON.
 1: E-commerce products scraping (Amazon,Ebay,Google maps, etc)
 2: Real estate and Property data Extraction
 3: Buissnes Lead generation [Emails, Phones, Websites].
+
+## It's my Live Proof (My Work) 
+(https://colab.research.google.com/drive/1NrssbFZ9sXvTG5derIG3H6cfLf3dtrPg?usp=sharing)
