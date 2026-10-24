@@ -32,4 +32,8 @@ A Python project that extracts book information from Books to Scrape and exports
 I'm improving my web scraping skills by building real projects and learning to deliver clean, organized data for clients.
 
 
-(https://colab.research.google.com/drive/1NrssbFZ9sXvTG5derIG3H6cfLf3dtrPg?usp=sharing)
+
+## Download Project Data
+
+[Download Courses Excel File](https://github.com/ykscraper/ykscraper/raw/refs/heads/main/courses%20%282%29.xlsx)
+
